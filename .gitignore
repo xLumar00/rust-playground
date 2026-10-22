@@ -1,0 +1,11 @@
+# Compiled binaries
+*.exe
+*.o
+*.class
+*.out
+
+# Language-specific build directories
+__pycache__/
+*.pyc
+target/
+.cache/
